@@ -1,0 +1,8 @@
+com\gyf\ssm\dao\IUserDao.class
+com\gyf\ssm\dao\IOdersDao.class
+com\gyf\ssm\dao\IMemberDao.class
+com\gyf\ssm\dao\IRoleDao.class
+com\gyf\ssm\dao\IPermissions.class
+com\gyf\ssm\dao\ISyslogDao.class
+com\gyf\ssm\dao\IProductaDao.class
+com\gyf\ssm\dao\ITraveller.class

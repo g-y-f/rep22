@@ -1,0 +1,8 @@
+com\gyf\ssm\Member.class
+com\gyf\ssm\Orders.class
+com\gyf\ssm\Permission.class
+com\gyf\ssm\Product.class
+com\gyf\ssm\UserInfo.class
+com\gyf\ssm\Traveller.class
+com\gyf\ssm\sysLog.class
+com\gyf\ssm\Role.class
